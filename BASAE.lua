@@ -4,7 +4,7 @@ local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
 local CORRECT_KEY = "CRACKEDEGG"
-local KEY_LINK = "https://direct-link.net/5694943/NSrS0pBlqG9z"
+local KEY_LINK = "https://direct-link.net/5694943/zRvqgvUOEhTc"
 
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "KeySystemGui"
