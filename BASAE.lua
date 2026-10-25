@@ -3,7 +3,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
-local CORRECT_KEY = "CRACKEDEGG"
+local CORRECT_KEY = "crackegg"
 local KEY_LINK = "https://direct-link.net/5694943/zRvqgvUOEhTc"
 
 local ScreenGui = Instance.new("ScreenGui")
